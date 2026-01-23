@@ -37,10 +37,9 @@
   box-sizing: border-box;
 }
 .res-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
+  transform: scale(0.95);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   cursor: pointer;
-  border: 1px solid black;
 }
 
 .search {
